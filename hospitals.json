@@ -17,7 +17,7 @@
 
                    {
 			"id": "2",
-			"name": "Noble Hospital,Pune.",
+			"name": "Noble Hospital Pune.",
 			"latitude": "18.507646",
 			"longitude": " 73.790117"
 		  },
@@ -49,13 +49,13 @@
 		},
                {
 			"id": "7",
-			"name": "Universal Hospital,Pune. ",
+			"name": "Universal Hospital Pune. ",
 			"latitude": "18.527116",
 			"longitude": "73.855994 "
 		},
                {
 			"id": "8",
-			"name": "Lokmanya Hospitals,Pune. ",
+			"name": "Lokmanya Hospitals Pune. ",
 			"latitude": "18.497668",
 			"longitude": " 73.854435"
 		},		           
@@ -69,13 +69,13 @@
                
                {
 			"id": "10",
-			"name": "Ranka Hospital,Pune. ",
+			"name": "Ranka Hospital Pune. ",
 			"latitude": "18.498327",
 			"longitude": " 73.861726"
 		},
                 {
 			"id": "11",
-			"name": "Usha Kiran Hospital,Pune.",
+			"name": "Usha Kiran Hospital Pune.",
 			"latitude": "18.502057",
 			"longitude": "73.934835 "
 			
